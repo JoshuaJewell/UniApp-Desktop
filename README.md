@@ -8,7 +8,7 @@ Latest Windows release is available at https://github.com/JoshuaJewell/UniApp-De
 For MacOS or Linux, you must clone this repo and either:
 <ul>
     <li>Run directly the run-unix.sh script.</li>
-    <li>Create a package by following instructions for [Electron Forge](https://www.electronjs.org/docs/latest/tutorial/tutorial-packaging).</li>
+    <li>Create a package by following instructions for <a href='https://www.electronjs.org/docs/latest/tutorial/tutorial-packaging'>Electron Forge</a>.</li>
 </ul>
 
 ## Limitations
