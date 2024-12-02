@@ -1,6 +1,6 @@
 # UniApp Desktop
 ## What is it?
-This is a basic Electron wrapper for web apps, specicifically geared towards making university apps into desktop apps. 
+This is a basic Electron wrapper for web apps, specicifically geared towards making university mobile apps into desktop apps. 
 
 ## How to use?
 Latest Windows release is available at https://github.com/JoshuaJewell/UniApp-Desktop/releases.
