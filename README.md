@@ -7,7 +7,7 @@ Latest Windows release is available at https://github.com/JoshuaJewell/UniApp-De
 
 For MacOS or Linux, you must clone this repo and either:
     Run directly using: `run-unix.sh`.
-    Create a package by following instructions for (Electron Forge)[https://www.electronjs.org/docs/latest/tutorial/tutorial-packaging].
+    Create a package by following instructions for [Electron Forge](https://www.electronjs.org/docs/latest/tutorial/tutorial-packaging).
 
 ## Limitations
 Version 0.0.1 currently only has a Windows release and only works with the RVC mobile page. Coming releases will include MacOS and the ability to select/add your university's mobile URL. If you would like to contribute these changes, or others, please create a pull request.
