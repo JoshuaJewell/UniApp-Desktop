@@ -1,0 +1,35 @@
+{
+  "name": "UniAppDesktop",
+  "version": "0.0.1",
+  "description": "Electron wrapper for University portals.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron-forge start",
+    "package": "electron-forge package",
+    "make": "electron-forge make"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoshuaJewell/UniApp-Desktop.git"
+  },
+  "author": "Joshua Jewell",
+  "license": "AGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/JoshuaJewell/UniApp-Desktop/issues"
+  },
+  "homepage": "https://github.com/JoshuaJewell/UniApp-Desktop#readme",
+  "dependencies": {
+    "electron-squirrel-startup": "^1.0.1"
+  },
+  "devDependencies": {
+    "@electron-forge/cli": "^7.6.0",
+    "@electron-forge/maker-deb": "^7.6.0",
+    "@electron-forge/maker-rpm": "^7.6.0",
+    "@electron-forge/maker-squirrel": "^7.6.0",
+    "@electron-forge/maker-zip": "^7.6.0",
+    "@electron-forge/plugin-auto-unpack-natives": "^7.6.0",
+    "@electron-forge/plugin-fuses": "^7.6.0",
+    "@electron/fuses": "^1.8.0",
+    "electron": "^32.2.6"
+  }
+}
